@@ -98,15 +98,17 @@ Regular training sessions should be mandatory for every employee.
 
 # 3. Document control
 ## 3.1 Administration
+```
 Title: Responsible Disclosure Policy
 Version: 1.0
 Validity: Until next issue
 Classification: Public
 Effective: 4 February 2022
 Review date: 4 February 2023
-Owner: <>
-Sponsor: <>
+Owner: Sidharth Vinod
+Sponsor: Peter Hansen
 Audience: Public
+```
 
 ## 3.2 Document history
 
