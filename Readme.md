@@ -1,4 +1,6 @@
-# Januus Markdown Policies Index
+# Januus Markdown Policies & Guides Index
+
+Guides work with document control embedded within git - policies have marked document control in their body. 
 
 - [Information Security](./InformationSecurity.md)
 - [Operational Security](./OperationalSecurity.md)
