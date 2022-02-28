@@ -4,7 +4,7 @@ Guides work with document control embedded within git - policies have marked doc
 
 - [Information Security](./InformationSecurity.md)
 - [Operational Security](./OperationalSecurity.md)
-- [Development Security](./InformationSecurity.md)
+- [Development Security](./DevelopmentSecurity.md)
 - [Languages, Frameworks](./Frameworks.md)
 - [Github Access](./GithubAccess.md)
 - [Git Workflow](./GitFlow.md)
