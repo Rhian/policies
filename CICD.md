@@ -11,4 +11,5 @@ All projects should have Github Actions defined which do the following:
 - Test (At least the basic functionality works)
 - Deploy (When merged to master)
 
-Developers should not be deploying code to production.
+Developers should not be deploying code to production. All changes/deployments to production environment should be done via the pipeline with approvals from the appropriate division lead. 
+
