@@ -4,6 +4,8 @@
 - Rust
 - Svelte
 
+Recommendation: setup pre-commit hooks for mypy, black and pylint.
+
 # Python
 
 ## 1. Lint
@@ -11,6 +13,8 @@
 You are expected to run `pylint` on your code using this [pylintrc](./Codestyles/.pylintrc).
 
 The recommendations that `pylint` makes aren't the word of God; you may ignore any that offends your common sense.
+
+
 
 ## 2. Typechecking
 
