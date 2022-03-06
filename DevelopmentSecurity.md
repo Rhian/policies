@@ -2,12 +2,12 @@
 
 ## Logging
 
-- Do not log any sensitive user data without first performing both a risk assessment and a legitimate interest assessment, verified by the company DPO. 
+- Do not log any sensitive user data without first performing both a risk assessment and a legitimate interest assessment, verified by the company DPO. All such communications should take place over email, where they are documented and can be proven as such. 
 - Error messages containing stack traces or data dumps must **never** be revealed to a external user. This includes circumstances where one is debugging, guinea pigging, demonstrating, or screenshotting.
 
 ## Communication 
 
-- Enforce secure communication. 
+- Enforce secure communication. TLS is a must. No public endpoints should be available without TLS.
 - Encrypt data in transit outside of internal VPCs. 
 - Always authenticate requests.
 - Do server-side validation.
@@ -15,7 +15,7 @@
 ## Understanding
 
 - Know what strong encryption algorithms are, and what weak ones are; know what fast hashes are, and know what slow ones are; know the distinction between Cryptographically Secure Pseudorandom Number generators and Pseudorandom Number generators. Most crucially, know what each of these are used for and what they are not used for.
-- Understand CORS, XSS, etc.
+- Understand CORS, XSS, etc. Make sure you read and understood OWASP Top 10 vulnerabilities: <https://owasp.org/www-project-top-ten/>
 
 ## Utilities
 
