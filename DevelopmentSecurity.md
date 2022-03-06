@@ -2,7 +2,7 @@
 
 ## Logging
 
-- Do not log any sensitive user data without first performing both a risk assessment and a legitimate interest assessment, verified by the company DPO. Ideally all such decisions should be documented.
+- Do not log any sensitive user data without first performing both a risk assessment and a legitimate interest assessment, verified by the company DPO. All such communications should take place over email, where they are documented and can be proven as such. 
 - Error messages containing stack traces or data dumps must **never** be revealed to a external user. This includes circumstances where one is debugging, guinea pigging, demonstrating, or screenshotting.
 
 ## Communication 
