@@ -1,12 +1,8 @@
 # GitFlow
 
-- Git Basics: https://rogerdudler.github.io/git-guide/
-- When shit hits the fan: https://ohshitgit.com/
-- GitHub PR: https://guides.github.com/activities/hello-world/#pr
-
 We will be practising a mini version of [Git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html).
 
-The current version is to enhance developer velocity. Once we have proper customers and releases, we will move to the full GitFlow model.
+The current version is to enhance developer velocity. Over time, we will move to the full GitFlow model.
 
 ## Developer GitFlow Guide
 
@@ -26,5 +22,13 @@ The current version is to enhance developer velocity. Once we have proper custom
 
 ## Releases
 
-- master/main will be the Branch being released to Production.
+- master/main will be the Branch released to Production.
+
+## Resources
+
+- Git Basics: https://rogerdudler.github.io/git-guide/
+- When shit hits the fan: https://ohshitgit.com/
+- GitHub PR: https://guides.github.com/activities/hello-world/#pr
+
+
 
